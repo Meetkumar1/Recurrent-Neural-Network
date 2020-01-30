@@ -1,1 +1,1 @@
-# Recurrent-Neural-Network
+# Recurrent-Neural-Network -- LSTM
